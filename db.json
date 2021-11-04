@@ -22,7 +22,7 @@
       "id": 4,
       "text": "Deleting Item",
       "day": "May 6th at 3:30pm",
-      "reminder": false
+      "reminder": true
     },
     {
       "id": 5,
