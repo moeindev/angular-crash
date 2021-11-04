@@ -14,9 +14,9 @@
     },
     {
       "id": 3,
-      "text": "Food Shopping",
-      "day": "May 7th at 12:30pm",
-      "reminder": false
+      "text": "Test Item",
+      "day": "May 6th at 3:30pm",
+      "reminder": true
     }
   ]
 }
