@@ -16,7 +16,19 @@
       "id": 3,
       "text": "Test Item",
       "day": "May 6th at 3:30pm",
-      "reminder": true
+      "reminder": false
+    },
+    {
+      "id": 4,
+      "text": "Deleting Item",
+      "day": "May 6th at 3:30pm",
+      "reminder": false
+    },
+    {
+      "id": 5,
+      "text": "Bullshit Item",
+      "day": "May 6th at 3:30pm",
+      "reminder": false
     }
   ]
 }
